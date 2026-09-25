@@ -1,6 +1,6 @@
 # A05 – Analyzing *Arrival* Through the Lens of NLP
 ### ITAI 2376 – Deep Learning AI
-### Team Root Matix: Luiz Paludo, Mary Ann Mastri, Cesar Noriega, Nichelle Graf
+### Team Root Matrix: Luiz Paludo, Mary Ann Mastri, Cesar Noriega, Nichelle Graf
 ---
 
 This project analyzes the 2016 film *Arrival* through the lens of Natural Language Processing (NLP). The film presents a first-contact scenario in which humans attempt to understand and communicate with an extraterrestrial species whose language differs fundamentally from human language.
