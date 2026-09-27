@@ -105,11 +105,9 @@ This distinction remains important even with today's advanced AI systems.
 This repository contains the project materials for A05, including:
 
 - Written analysis/report
-- PowerPoint presentation
-- Reflection and project notes
-- Supporting research and references
-- Additional project documentation as required
-
+- Reflection Journal
+- Team contributions documentation
+  
 ---
 
 ## Course
